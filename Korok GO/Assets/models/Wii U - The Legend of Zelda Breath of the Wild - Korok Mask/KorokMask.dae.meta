@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: adba7a4a33cdc684aa86b5aaad410f9a
+timeCreated: 1529511158
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Add_Hair_1_Armor
+    100002: Armature
+    100004: Armor_176__Mt_Head_176
+    100006: Hair_1_176__Mt_Hair_176
+    100008: Hair_2_176__Mt_Hair_176
+    100010: Hair_A_1
+    100012: Hair_A_2
+    100014: Hair_A_5
+    100016: Hair_B_1
+    100018: Hair_B_2
+    100020: Hair_C_1
+    100022: Hair_C_2
+    100024: Hair_D_1
+    100026: Hair_D_2
+    100028: Hair_E_1
+    100030: Hair_E_2
+    100032: Hair_F_1
+    100034: Hair_F_2
+    100036: Hair_H_1
+    100038: Hair_H_2
+    100040: Hair_Root
+    100042: Head
+    100044: //RootNode
+    100046: Momi_A_1_L
+    100048: Momi_A_1_R
+    100050: Momi_A_2_L
+    100052: Momi_A_2_R
+    100054: Momi_A_3_L
+    100056: Momi_A_3_R
+    100058: Momi_B_1_L
+    100060: Momi_B_1_R
+    100062: Momi_B_2_L
+    100064: Momi_B_2_R
+    100066: Momi_C_1_L
+    100068: Momi_C_1_R
+    100070: Momi_C_2_L
+    100072: Momi_C_2_R
+    100074: Neck
+    100076: Nose_Armor
+    100078: Root
+    100080: Skl_Root
+    100082: Spine_1
+    100084: Spine_2
+    100086: Wheel_Armor
+    400000: Add_Hair_1_Armor
+    400002: Armature
+    400004: Armor_176__Mt_Head_176
+    400006: Hair_1_176__Mt_Hair_176
+    400008: Hair_2_176__Mt_Hair_176
+    400010: Hair_A_1
+    400012: Hair_A_2
+    400014: Hair_A_5
+    400016: Hair_B_1
+    400018: Hair_B_2
+    400020: Hair_C_1
+    400022: Hair_C_2
+    400024: Hair_D_1
+    400026: Hair_D_2
+    400028: Hair_E_1
+    400030: Hair_E_2
+    400032: Hair_F_1
+    400034: Hair_F_2
+    400036: Hair_H_1
+    400038: Hair_H_2
+    400040: Hair_Root
+    400042: Head
+    400044: //RootNode
+    400046: Momi_A_1_L
+    400048: Momi_A_1_R
+    400050: Momi_A_2_L
+    400052: Momi_A_2_R
+    400054: Momi_A_3_L
+    400056: Momi_A_3_R
+    400058: Momi_B_1_L
+    400060: Momi_B_1_R
+    400062: Momi_B_2_L
+    400064: Momi_B_2_R
+    400066: Momi_C_1_L
+    400068: Momi_C_1_R
+    400070: Momi_C_2_L
+    400072: Momi_C_2_R
+    400074: Neck
+    400076: Nose_Armor
+    400078: Root
+    400080: Skl_Root
+    400082: Spine_1
+    400084: Spine_2
+    400086: Wheel_Armor
+    4300000: Hair_1_176__Mt_Hair_176
+    4300002: Armor_176__Mt_Head_176
+    4300004: Hair_2_176__Mt_Hair_176
+    9500000: //RootNode
+    13700000: Armor_176__Mt_Head_176
+    13700002: Hair_1_176__Mt_Hair_176
+    13700004: Hair_2_176__Mt_Hair_176
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
